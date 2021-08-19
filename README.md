@@ -1,7 +1,7 @@
-#Write Your Thoughts App
+# Write Your Thoughts App
 
 
-##Images Of App
+## Images Of App
 
 <img src = "app/WriteYourThoughtImages/WelcomeScreen.png" height = "350" >                   <img src = "app/WriteYourThoughtImages/LoginScreen.png" height = "350" >        
 
