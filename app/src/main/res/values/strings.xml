@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Write Your Thoughts</string>
+    <string name="self_gratitude_journal">SELF GRATITUDE JOURNAL</string>
+    <string name="so_what_are_you_grateful_for">So, What are you grateful for?</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="enter_your_email">ENTER YOUR EMAIL</string>
+    <string name="enter_your_password">ENTER YOUR PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="or">OR</string>
+    <string name="hey_create_your_account_here">HEY, CREATE YOUR ACCOUNT HERE!</string>
+    <string name="create_your_new_account">Create Your Account</string>
+    <string name="username_hint">Username</string>
+    <string name="post_title">Title</string>
+    <string name="thoughts">Your Thoughts....</string>
+    <string name="save_button">Save</string>
+    <string name="menu_title">Add Thoughts</string>
+    <string name="signout">SignOut</string>
+    <string name="no_thoughts_hint">Write a  Journal Entry</string>
+</resources>

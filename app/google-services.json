@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253776391427",
+    "project_id": "write-your-thoughts-516ad",
+    "storage_bucket": "write-your-thoughts-516ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253776391427:android:da372539864c07099fcd36",
+        "android_client_info": {
+          "package_name": "com.example.writeyourthoughts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253776391427-8cqv1k0hnq0g6u9fg6d761u3pd19mkbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJiZQj-8-XqfA14CGS5jcLQ1mQwwgaXFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253776391427-8cqv1k0hnq0g6u9fg6d761u3pd19mkbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
