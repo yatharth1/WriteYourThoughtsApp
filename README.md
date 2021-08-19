@@ -1,15 +1,14 @@
 # Images Of App
 
-![](app/WriteYourThoughtImages/WelcomeScreen.png)
+<img src = "app/WriteYourThoughtImages/WelcomeScreen.png" height = "50" >
 
-![](app/WriteYourThoughtImages/LoginScreen.png)
+<img src = "app/WriteYourThoughtImages/LoginScreen.png" height = "50" >
 
-![](app/WriteYourThoughtImages/CreateANewAccountScreen.png)
+<img src = "app/WriteYourThoughtImages/CreateANewAccountScreen.png" height = "50" >
 
-![](app/WriteYourThoughtImages/AllPostScreen.png)
+<img src = "app/WriteYourThoughtImages/AllPostScreen.png" height = "50" >
 
-![](app/WriteYourThoughtImages/CreateANewPostScreen.png)
+<img src = "app/WriteYourThoughtImages/CreateANewPostScreen.png" height = "50" >
 
-![](app/WriteYourThoughtImages/SignoutOptionMenuIcon.png)
-
+<img src = "app/WriteYourThoughtImages/SignoutOptionMenuIcon.png" height = "50" >
 
